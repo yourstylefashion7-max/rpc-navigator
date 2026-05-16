@@ -87,6 +87,13 @@ ios/tmp.xcconfig
 #
 android/app/google-services.json
 android/app/play-store-credentials.json
+ios/GoogleService-Info.plist
+google-play-service-account.json
+*.p8
+*.p12
+
+# EAS local artifacts
+.easignore.local
 
 # Navigator assets/configurations
 #
